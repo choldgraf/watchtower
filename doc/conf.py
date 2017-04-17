@@ -175,5 +175,7 @@ sphinx_gallery_conf = {
         'sklearn': None,
         'matplotlib': 'http://matplotlib.org',
         'numpy': 'http://docs.scipy.org/doc/numpy-1.6.0',
-        'scipy': 'http://docs.scipy.org/doc/scipy-0.11.0/reference'}
+        'scipy': 'http://docs.scipy.org/doc/scipy-0.11.0/reference',
+    },
+    'backreferences_dir': 'generated_backrefs',
 }

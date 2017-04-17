@@ -13,6 +13,10 @@ Welcome to Watchtower's documentation!
   auto_examples/index
   modules/classes
 
+API
+===
+
+* :ref:`api_reference`
 
 Indices and tables
 ==================
